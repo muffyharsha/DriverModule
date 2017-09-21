@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        app:cardCornerRadius="4dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/add1"
+            android:layout_width="wrap_content"
+            android:layout_height="24dp"
+            android:layout_marginLeft="167dp"
+            android:textColor="#ffffff"
+            android:background="@color/colorPrimary"
+            android:textSize="15dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:layout_marginTop="70dp"
+            android:text="Address 1"
+            android:layout_marginBottom="10dp"/>
+
+        <TextView
+            android:id="@+id/mgrade1"
+            android:layout_marginTop="40dp"
+            android:textSize="17dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:drawableLeft="@mipmap/ic_grade_black_24dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginLeft="15dp"
+            android:textColor="#563843"
+            android:textSize="17dp"
+            android:fontFamily="sans-serif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Grade" />
+        <TextView
+            android:id="@+id/textViedjfdw2"
+            android:drawableLeft="@mipmap/ic_business_black_24dp"
+            android:layout_marginTop="70dp"
+            android:layout_marginLeft="15dp"
+            android:textColor="#563843"
+            android:textSize="17dp"
+            android:fontFamily="sans-serif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Address" />
+        <TextView
+            android:id="@+id/textView"
+
+            android:layout_marginTop="5dp"
+            android:textSize="19dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="monospace"
+            android:textColor="#563843"
+            android:text="Module 1" />
+
+    </android.support.v7.widget.CardView>
+
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_marginTop="125dp"
+        app:cardCornerRadius="4dp"
+
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/add2"
+            android:layout_width="wrap_content"
+            android:layout_height="24dp"
+            android:layout_marginLeft="167dp"
+            android:textColor="#ffffff"
+            android:background="@color/colorPrimary"
+            android:textSize="15dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:layout_marginTop="70dp"
+            android:text="Address 2"
+            android:layout_marginBottom="10dp"/>
+
+        <TextView
+            android:id="@+id/mgrade2"
+            android:layout_marginTop="40dp"
+            android:textSize="17dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="" />
+
+        <TextView
+            android:id="@+id/textView2we"
+            android:drawableLeft="@mipmap/ic_grade_black_24dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginLeft="15dp"
+            android:textColor="#563843"
+            android:textSize="17dp"
+            android:fontFamily="sans-serif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Grade" />
+        <TextView
+            android:id="@+id/textViedjfdw2we"
+            android:drawableLeft="@mipmap/ic_business_black_24dp"
+            android:layout_marginTop="70dp"
+            android:layout_marginLeft="15dp"
+            android:textColor="#563843"
+            android:textSize="17dp"
+            android:fontFamily="sans-serif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Address" />
+        <TextView
+            android:id="@+id/textViewwe"
+
+            android:layout_marginTop="5dp"
+            android:textSize="19dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="monospace"
+            android:textColor="#563843"
+            android:text="Module 2" />
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_marginTop="240dp"
+        app:cardCornerRadius="4dp"
+
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/add3"
+            android:layout_width="wrap_content"
+            android:layout_height="24dp"
+            android:layout_marginLeft="167dp"
+            android:textColor="#ffffff"
+            android:background="@color/colorPrimary"
+            android:textSize="15dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:layout_marginTop="70dp"
+            android:text="Address 3"
+            android:layout_marginBottom="10dp"/>
+
+        <TextView
+            android:id="@+id/mgrade3"
+            android:layout_marginTop="40dp"
+            android:textSize="17dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="" />
+
+        <TextView
+            android:id="@+id/textView2we2"
+            android:drawableLeft="@mipmap/ic_grade_black_24dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginLeft="15dp"
+            android:textColor="#563843"
+            android:textSize="17dp"
+            android:fontFamily="sans-serif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Grade" />
+        <TextView
+            android:id="@+id/textViedjfdw2we2"
+            android:drawableLeft="@mipmap/ic_business_black_24dp"
+            android:layout_marginTop="70dp"
+            android:layout_marginLeft="15dp"
+            android:textColor="#563843"
+            android:textSize="17dp"
+            android:fontFamily="sans-serif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Address" />
+        <TextView
+            android:id="@+id/textViewwe2"
+
+            android:layout_marginTop="5dp"
+            android:textSize="19dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="monospace"
+            android:textColor="#563843"
+            android:text="Module 3" />
+
+    </android.support.v7.widget.CardView>
+
+
+
+</RelativeLayout>
+
+
+
