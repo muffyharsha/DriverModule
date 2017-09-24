@@ -1,3 +1,9 @@
+
+The application file has two parts, one is the source code of the Ardinuo and the other is the android application source code.
+The datatocloud-master directory contains the source code of hardware programs and the programs to upload data to cloud.
+The android application will work only when the internet and GPS is working. Since we have encountered problems with Github the java class files are stored in a separate folder with the name javafiles. Copy the java files into the currentplacedetailsonmap directory to obtain the correct file structure.
+
+
 Google Maps Android API Sample: Current Place Details
 =====================================================
 
