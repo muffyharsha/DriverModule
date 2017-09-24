@@ -1,0 +1,2 @@
+The application file has two parts, one is the source code of the Ardinuo and the other is the android application source code.
+The android application will work only when the internet and GPS is working.
